@@ -11,8 +11,13 @@
   - notes must be at most 140 characters long
   - estimatedAmount must contain only numbers
   - Question: what is it called when a string contains only letters and numbers?
+   --> isAlphaNumeric()
   - *BONUS* species and notes must contain only letters (no numbers or symbols)
   - *BONUS* Research: what is a mimetype? Provide a very short definition and 3 examples
+   --> identifies file formats transmitted on the internet (now called media type)
+   --> examples:    - text/html
+                    - application/json
+                    - image/jpeg
 
 - Do not commit `node_modules`
 

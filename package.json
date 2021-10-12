@@ -1,0 +1,19 @@
+{
+  "name": "be-security-validate-mxx1029",
+  "version": "1.0.0",
+  "description": "- Do not use mongo/mongoose - Create a tiny API with two endpoints:   - `GET /birds` - returns current list of bird sightings in app memory   - `POST /birds` - adds a bird sighting to app memory",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.13.0",
+    "lowdb": "^3.0.0",
+    "nodemon": "^2.0.13"
+  }
+}

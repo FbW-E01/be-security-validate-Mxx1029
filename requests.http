@@ -1,0 +1,12 @@
+GET http://localhost:8090/birds
+
+###
+
+POST http://localhost:8090/birds
+Content-Type: application/json
+
+{
+    "species": "Kaka",
+    "notes": "incredibly smart parrot on the North Island of Aoteroa",
+    "estimatedAmount": "300000"
+}

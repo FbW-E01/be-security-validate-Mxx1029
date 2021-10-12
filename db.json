@@ -1,0 +1,54 @@
+{
+  "birds": [
+    {
+      "species": "Tui",
+      "notes": "bird of new zealand",
+      "estimatedAmount": "85"
+    },
+    {
+      "species": "Tui",
+      "notes": "bird of new zealand",
+      "estimatedAmount": "85"
+    },
+    {
+      "species": "Tui",
+      "notes": "bird of new zealand",
+      "estimatedAmount": "85"
+    },
+    {
+      "species": "Tu",
+      "notes": "bird of new zealand",
+      "estimatedAmount": "85"
+    },
+    {
+      "species": "T",
+      "notes": "bird of new zealand",
+      "estimatedAmount": "85"
+    },
+    {
+      "species": "Tgjkhgkjghe",
+      "notes": "bird of new zealand",
+      "estimatedAmount": "3"
+    },
+    {
+      "species": "Kaka",
+      "notes": "incredibly smard parrot on the North Island of Aoteroa",
+      "estimatedAmount": "3"
+    },
+    {
+      "species": "Kaka",
+      "notes": "incredibly smart parrot on the North Island of Aoteroa",
+      "estimatedAmount": "3"
+    },
+    {
+      "species": "Kaka",
+      "notes": "incredibly smart parrot on the North Island of Aoteroa",
+      "estimatedAmount": "3"
+    },
+    {
+      "species": "Kaka",
+      "notes": "incredibly smart parrot on the North Island of Aoteroa",
+      "estimatedAmount": "300000"
+    }
+  ]
+}
